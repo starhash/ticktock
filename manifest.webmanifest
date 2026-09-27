@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Tempo Clock",
-  "short_name": "Tempo Clock",
+  "name": "TickTock",
+  "short_name": "TickTock",
   "description": "A customizable 40, 60, and 80 BPM relaxation clock with analog and digital faces.",
   "start_url": "./",
   "scope": "./",
